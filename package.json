@@ -1,7 +1,7 @@
 {
   "name": "globo",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Turn module ids into global lookups that work in Node and the browser",
   "license": "MIT",
   "repository": "bendrucker/globo",
