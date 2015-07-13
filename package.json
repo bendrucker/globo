@@ -2,7 +2,7 @@
   "name": "globo",
   "main": "index.js",
   "version": "1.0.1",
-  "description": "Turn module ids into global lookups that work in Node and the browser",
+  "description": "Turn identifiers into global lookups that work in Node and the browser",
   "license": "MIT",
   "repository": "bendrucker/globo",
   "author": {
@@ -24,7 +24,9 @@
     "node"
   ],
   "dependencies": {
-    "pff": "~1.0.0"
+    "accessory": "~1.0.0",
+    "is-defined": "~1.0.0",
+    "ternary": "~1.0.0"
   },
   "devDependencies": {
     "tape": "^4.0.0",
