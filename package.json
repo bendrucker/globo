@@ -1,7 +1,7 @@
 {
   "name": "globo",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Turn identifiers into global lookups that work in Node and the browser",
   "license": "MIT",
   "repository": "bendrucker/globo",
