@@ -24,7 +24,7 @@
     "node"
   ],
   "dependencies": {
-    "accessory": "~1.0.0",
+    "accessory": "~1.1.0",
     "is-defined": "~1.0.0",
     "ternary": "~1.0.0"
   },
