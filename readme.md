@@ -1,4 +1,4 @@
-# globo [![Build Status](https://travis-ci.org/bendrucker/globo.svg?branch=master)](https://travis-ci.org/bendrucker/globo)
+# globo [![Build Status](https://travis-ci.org/bendrucker/globo.svg?branch=master)](https://travis-ci.org/bendrucker/globo) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/globo.svg)](https://greenkeeper.io/)
 
 > Turn module ids into global lookups that work in Node and the browser
 
